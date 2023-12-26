@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltax75&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/deltax75/count.svg) visitor.
