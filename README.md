@@ -23,6 +23,8 @@ My research interests include multiagent systems and nonlinear control.
 
 For knowledge sharing, this is my [Zhihu Page](https://www.zhihu.com/people/Walter_Brien).
 
+![Walter Brien's GitHub stats](https://github-readme-stats.vercel.app/api?username=deltax75&hide=issues,prs&show_icons=true&theme=gruvbox_light)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltax75&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/deltax75/count.svg) visitor.
