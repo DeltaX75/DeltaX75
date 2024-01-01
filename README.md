@@ -30,4 +30,3 @@ For knowledge sharing, this is my [Zhihu Page](https://www.zhihu.com/people/Walt
 You are my ![Visitor Count](https://profile-counter.glitch.me/deltax75/count.svg) visitor.
 
 ![cat](https://github.com/DeltaX75/DeltaX75/blob/main/hacker_cat.gif?raw=true.gif)
-
