@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋🏼
 
 ![Views](http://views.whatilearened.today/views/github/deltax75/views.svg)
 
