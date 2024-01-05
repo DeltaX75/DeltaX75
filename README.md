@@ -3,7 +3,7 @@
 ![Views](http://views.whatilearened.today/views/github/deltax75/views.svg)
 
 <!--
-**DeltaX75/DeltaX75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DeltaX75/DeltaX75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 
 Here are some ideas to get you started:
 
