@@ -21,7 +21,8 @@ I am currently working toward the M.Eng. degree in control theory and control en
 
 My research interests include multiagent systems and nonlinear control.
 
-For knowledge sharing, this is my [Zhihu Page](https://www.zhihu.com/people/Walter_Brien).
+Feel free to visit my [Zhihu Page](https://www.zhihu.com/people/Walter_Brien) for more on my work and thoughts.
+
 
 ![Walter Brien's GitHub stats](https://github-readme-stats.vercel.app/api?username=deltax75&hide=issues,prs&show_icons=true&theme=gruvbox_light)
 
